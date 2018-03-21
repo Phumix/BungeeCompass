@@ -1,0 +1,9 @@
+main: me.phumix.Main
+version: 2.1
+name: BungeeCompass
+author: Phumix
+description: 'Switch between servers in a bungee network.'
+commands:
+   bungeecompass:
+      aliases: [bcs, bcompass]
+      description: 'Main command.'

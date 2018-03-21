@@ -1,0 +1,91 @@
+#Multiple of 9.
+inv-size: 9
+total-servers: 9
+inv-name: '&3&lServer Selector'
+join-compass: true
+compass-name: '&2Servers'
+player-slot: 4
+compass-drop: false
+
+server:
+   1:
+      itemid: 102
+      itemamount: 1
+      display: '&4----'
+      activatelore: false
+      bungee-connect: ''
+      invslot: 0
+      lore:
+      - 'None'
+   2:
+      itemid: 102
+      itemamount: 1
+      display: '&4----'
+      activatelore: false
+      bungee-connect: ''
+      invslot: 1
+      lore:
+      - 'None'
+   3:
+      itemid: 102
+      itemamount: 1
+      display: '&4----'
+      activatelore: false
+      bungee-connect: ''
+      invslot: 2
+      lore:
+      - 'None'
+   4:
+      itemid: 54
+      itemamount: 1
+      display: '&6Towny'
+      activatelore: true
+      bungee-connect: 'towny'
+      invslot: 3
+      lore:
+      - 'Towny server.'
+   5:
+      itemid: 272
+      itemamount: 1
+      display: '&3Kingdoms'
+      activatelore: true
+      bungee-connect: 'kingdoms'
+      invslot: 4
+      lore:
+      - 'Kingdoms server.'
+   6:
+      itemid: 2
+      itemamount: 1
+      display: '&bSkyblock'
+      activatelore: true
+      bungee-connect: 'Skyblock'
+      invslot: 5
+      lore:
+      - 'Skyblock server.'
+   7:
+      itemid: 102
+      itemamount: 1
+      display: '&4----'
+      activatelore: false
+      bungee-connect: ''
+      invslot: 6
+      lore:
+      - 'None'
+   8:
+      itemid: 102
+      itemamount: 1
+      display: '&4----'
+      activatelore: false
+      bungee-connect: ''
+      invslot: 7
+      lore:
+      - 'None'
+   9:
+      itemid: 102
+      itemamount: 1
+      display: '&4----'
+      activatelore: false
+      bungee-connect: ''
+      invslot: 8
+      lore:
+      - 'None'
